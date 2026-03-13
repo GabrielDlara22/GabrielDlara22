@@ -3,7 +3,7 @@
 # 👋🏻 Olá! Eu sou **Gabriel D. Lara**  
 <br/>
 
-**Programador Júnior** | 19 anos | Estudante de **Análise e Desenvolvimento de Sistemas (ADS**
+**Programador Júnior** | 19 anos | Estudante de **Análise e Desenvolvimento de Sistemas (ADS**)
 
 <br/>
 
